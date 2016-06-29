@@ -6,7 +6,7 @@ tags: [test]
 <h2>{{Hello World!}}</h2>
 <p>This is my first blog !</p>
 <p>Hello World !</p>
-<p>`Hello World !`</p>
+`Hello World !`
 
 
     /* hello world demo */
