@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 category: demo
-tags: [test, jekyll, welcome]
+tags: [linux]
 ---
 
 # 这是 h1
