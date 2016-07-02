@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: 2016年07月01日深度操作系统常规测试
 category: deepin
 tags: [deepin]
