@@ -27,6 +27,7 @@ sass:
 
 # comment
 comments: ture
+    provider : duoshuo
     duoshuo: 
         short_name: nirvanacom                              # short name
         rcomments:
