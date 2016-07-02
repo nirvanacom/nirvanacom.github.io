@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 2016年07月01日深度操作系统常规测试
+category: deepin
 tags: [deepin]
 ---
 <p>今天正好赶上测试，而且能得到小礼物，于是第一时间提交了测试报告，即使没发现BUG！</p>
