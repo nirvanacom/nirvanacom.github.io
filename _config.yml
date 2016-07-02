@@ -28,7 +28,7 @@ sass:
 # comment
 comments:
     duoshuo: 
-        short_name: nirvanacom                               # short name
+        short_name: vana                               # short name
         rcomments:
             num: 10
             avatar: 0
