@@ -48,11 +48,11 @@
     <!-- tinysou End -->
     {% endif %}
 
-    {% include JB/analytics %}
+    {% include baidu-analytics.html %}
 
     {% if site.comments.duoshuo.short_name %}
     <!-- duoshuo Begin -->
-    <script type="text/javascript">
+    <script>
       var duoshuoQuery = {short_name:"{{ site.comments.duoshuo.short_name }}"};
       (function() {
         var ds = document.createElement('script');
