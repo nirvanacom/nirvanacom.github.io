@@ -10,6 +10,8 @@ tags: [deepin]
 <p><a href="https://bbs.deepin.org/forum.php?mod=viewthread&tid=41045&extra=">https://bbs.deepin.org/forum.php?mod=viewthread&tid=41045&extra=</a></p>
 <p>不过还是有个小问题，最近在deepin15.2中使用五笔时，经常出现待选框消失的情况，可能是系统启动时就没有加载上fcitx。具体情况反映过，没结论。继续等吧。</p>
 
+{{ page.date | date_to_string }}
+
 <!-- 多说评论框 start -->
 	<div class="ds-thread" data-thread-key="2016-07-01-deepin-test.md" data-title="2016年07月01日深度操作系统常规测试" data-url="https://nirvanacom.github.io/deepin/2016-07/deepin-test.html"></div>
 <!-- 多说评论框 end -->
@@ -28,6 +30,6 @@ var duoshuoQuery = {short_name:"nirvanacom"};
 <!-- 多说公共JS代码 end -->
 
 </body>
-{{ page.date | date_to_string }}
+
 
 
