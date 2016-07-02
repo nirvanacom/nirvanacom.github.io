@@ -29,7 +29,7 @@ sass:
 comments:
 	provider: duoshuo
     duoshuo: 
-        name_name: nirvanacom                               # short name
+        short_name: nirvanacom                               # short name
         rcomments:
             num: 10
             avatar: 0
