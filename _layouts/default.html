@@ -17,15 +17,15 @@
     <script src="{% if site.cdn %}{{ site.cdn }}{% else %}{{ site.assets_path }}{% endif %}/js/jquery.min.js"></script>
     <script src="{% if site.cdn %}{{ site.cdn }}{% else %}{{ site.assets_path }}{% endif %}/js/bootstrap.min.js"></script>
     <script src="{% if site.cdn %}{{ site.cdn }}{% else %}{{ site.assets_path }}{% endif %}/js/webcore.js"></script>
-    <script src="{% if site.cdn %}{{ site.cdn }}{% else %}{{ site.assets_path }}{% endif %}/js/jquery.qrcode.min.js"></script>
+    <!---<script src="{% if site.cdn %}{{ site.cdn }}{% else %}{{ site.assets_path }}{% endif %}/js/jquery.qrcode.min.js"></script>-->
 
-    <script>
+    <!--<script>
       $("#code").qrcode({
         width: 150,
         height: 150,
         text: "http:{{ site.url }}{{ page.url }}"
       });
-    </script>
+    </script>-->
 
     {% if site.search.tinysou.engineKey %}
     <!-- tinysou Begin -->
@@ -52,7 +52,7 @@
 
     {% if site.comments.duoshuo.short_name %}
     <!-- duoshuo Begin -->
-    <script>
+    <script type="text/javascript">
       var duoshuoQuery = {short_name:"{{ site.comments.duoshuo.short_name }}"};
       (function() {
         var ds = document.createElement('script');
