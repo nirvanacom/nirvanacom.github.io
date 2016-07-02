@@ -4,7 +4,7 @@ title: 2016年07月01日深度操作系统常规测试
 category: deepin
 tags: [deepin]
 ---
-
+<body>
 <p>今天正好赶上测试，而且能得到小礼物，于是第一时间提交了测试报告，即使没发现BUG！</p>
 <p>新闻地址如下：</p>
 <p><a href="https://bbs.deepin.org/forum.php?mod=viewthread&tid=41045&extra=">https://bbs.deepin.org/forum.php?mod=viewthread&tid=41045&extra=</a></p>
@@ -28,3 +28,5 @@ var duoshuoQuery = {short_name:"nirvanacom"};
 <!-- 多说公共JS代码 end -->
 
 {{ page.date | date_to_string }}
+
+</body>
