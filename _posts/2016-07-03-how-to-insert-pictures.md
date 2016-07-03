@@ -8,13 +8,13 @@ tags: [test]
 <p>关于怎样插入图片，在这里先做个标记，因为我还没找到方法，但是jekyll上有个说明：</p>
 <p>Including an image asset in a post:</p>
 
->... which is shown in the screenshot below:
+<p><code>... which is shown in the screenshot below:</code></p>
 
->![My helpful screenshot]({{ site.url }}/assets/screenshot.jpg)
+<p><code>![My helpful screenshot]({{ site.url }}/assets/screenshot.jpg)</code></p>
 
 <p>一会就按这个说明先试一下！</p>
 
-- - - - - -
+- - -
 
 ![My helpful screenshot]({{ site.url }}/assets/15.2.png)
 
