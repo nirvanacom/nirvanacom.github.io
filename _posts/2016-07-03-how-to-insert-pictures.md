@@ -10,7 +10,7 @@ tags: [test]
 <p><q>... which is shown in the screenshot below:</q></p>
 <p><q>![My helpful screenshot]({{ site.url }}/assets/15.2.jpg)</q></p>
 <p>一会就按这个说明先试一下！</p>
-<br/>
+<hr/>
 <p>![My helpful screenshot]({{ site.url }}/assets/images/15.2.png)</p>
 
 {{ page.date | date_to_string }}
