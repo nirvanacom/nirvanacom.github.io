@@ -12,7 +12,7 @@ tags: [test]
 <p>一会就按这个说明先试一下！</p>
 <hr/>
 <p>![My helpful screenshot]({{ site.url }}/assets/images/15.2.png)</p>
-<p><img src="//nirvancom.github.io/assets/images/15.2.png" />
+<p><img src="//Nirvancom.github.io/assets/15.2.jpg" />
 </p>
 {{ page.date | date_to_string }}
 
