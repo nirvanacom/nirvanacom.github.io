@@ -12,7 +12,8 @@ tags: [test]
 <p>一会就按这个说明先试一下！</p>
 <hr/>
 <p>![My helpful screenshot]({{ site.url }}/assets/images/15.2.png)</p>
-
+<p><img src="/nirvanacom/nirvancom.github.io/assets/images/15.2.png" />
+</p>
 {{ page.date | date_to_string }}
 
 <!-- 多说评论框 start -->
