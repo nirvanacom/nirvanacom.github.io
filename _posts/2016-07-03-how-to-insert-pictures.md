@@ -15,7 +15,7 @@ tags: [test]
 <p><img src='https://raw.githubusercontent.com/nirvanacom/nirvanacom.github.io/master/assets/15.2.png' /></p>
 <hr/>
 <p>终于成功了！jekyll上面说的完全不行，我是在assets目录里放进一张图片，然后在github里把图片打开，查看它的图片地址，复制图片地址，粘贴到图片引用代码中就行了！</p>
-<p><code><img src='https://raw.githubusercontent.com/nirvanacom/nirvanacom.github.io/master/assets/15.2.png' /></code></p>
+<p><code>&ltimg src='https://raw.githubusercontent.com/nirvanacom/nirvanacom.github.io/master/assets/15.2.png' /&gt</code></p>
 <p>对，就是这么简单，搞了一天多才弄明白！</p>
 
 {{ page.date | date_to_string }}
