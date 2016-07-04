@@ -11,7 +11,7 @@ tags: [test]
 <p><q>![My helpful screenshot]({{ site.url }}/assets/15.2.jpg)</q></p>
 <p>一会就按这个说明先试一下！</p>
 <hr/>
-<p>![15.2](https://github.com/nirvanacom/nirvanacom.github.io/blob/57a1132efe4f549962a6aeeb4a5bla2b2640dba6/assets/15.2.png)</p>
+<p>![15.2](https://raw.githubusercontent.com/nirvanacom/nirvanacom.github.io/master/assets/15.2.png)</p>
 
 {{ page.date | date_to_string }}
 
