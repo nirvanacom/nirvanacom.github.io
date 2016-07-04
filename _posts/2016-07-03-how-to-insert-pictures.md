@@ -12,6 +12,7 @@ tags: [test]
 <p>一会就按这个说明先试一下！</p>
 <hr/>
 <p>![15.2](https://raw.githubusercontent.com/nirvanacom/nirvanacom.github.io/master/assets/15.2.png)</p>
+<p><img src='https://raw.githubusercontent.com/nirvanacom/nirvanacom.github.io/master/assets/15.2.png' /></p>
 
 {{ page.date | date_to_string }}
 
