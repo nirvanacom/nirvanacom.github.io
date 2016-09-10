@@ -8,7 +8,7 @@ tags: [raspberry pi]
 <p><code>chromium-browser_48.0.2564.82-0ubuntu0.15.04.1.1193_armhf.deb</code></p>
 <p><code>chromium-browser-l10n_48.0.2564.82-0ubuntu0.15.04.1.1193_all.deb</code></p>
 <p><code>chromium-codecs-ffmpeg-extra_48.0.2564.82-0ubuntu0.15.04.1.1193_armhf.deb</code></p>
-<p>分别安装就可以了，不过资源消耗还是很大，登录百度账号什么的，可以达到90％多。装完后还要装flash，不然不能播放视频。这个网上有，这里标记下文件名：</p>
+<p>安装的时候好像要先安装第三个，然后再装第一，二个，不然会提示找不到包。不过资源消耗还是很大，登录百度账号什么的，可以达到90％多。装完后还要装flash，不然不能播放视频。这个网上有，这里标记下文件名：</p>
 <p><code>chromium-pepper-flash-12-12.0.0.77-1-armv7h.pkg.tar.xz</code></p>
 <p>接下来是gnucash。这个开始的时候是装不上的，后来不知道怎么回事，install一下就可以了，依赖也都正常。不多说。</p>
 <p>另外，源的问题还没解决，还是用的官方源，后面更新慢如牛。因为找了几个国内源，update都不成功，如下提示：</p>
