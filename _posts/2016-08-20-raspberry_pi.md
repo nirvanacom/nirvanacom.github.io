@@ -5,11 +5,11 @@ category: linux
 tags: [raspberry pi]
 ---
 <p>chromium装上了，装的chromium-browser_48。需要下载的一共三个文件，分别是：</p>
-<p>chromium-browser_48.0.2564.82-0ubuntu0.15.04.1.1193_armhf</p>
-<p>chromium-browser-l10n_48.0.2564.82-0ubuntu0.15.04.1.1193_all</p>
-<p>chromium-codecs-ffmpeg-extra_48.0.2564.82-0ubuntu0.15.04.1.1193_armhf</p>
+<p><code>chromium-browser_48.0.2564.82-0ubuntu0.15.04.1.1193_armhf.deb</code></p>
+<p><code>chromium-browser-l10n_48.0.2564.82-0ubuntu0.15.04.1.1193_all.deb</code></p>
+<p><code>chromium-codecs-ffmpeg-extra_48.0.2564.82-0ubuntu0.15.04.1.1193_armhf.deb</code></p>
 <p>分别安装就可以了，不过资源消耗还是很大，登录百度账号什么的，可以达到90％多。装完后还要装flash，不然不能播放视频。这个网上有，这里标记下文件名：</p>
-<p>chromium-pepper-flash-12-12.0.0.77-1-armv7h.pkg.tar.xz</p>
+<p><code>chromium-pepper-flash-12-12.0.0.77-1-armv7h.pkg.tar.xz</code></p>
 <p>接下来是gnucash。这个开始的时候是装不上的，后来不知道怎么回事，install一下就可以了，依赖也都正常。不多说。</p>
 <p>另外，源的问题还没解决，还是用的官方源，后面更新慢如牛。因为找了几个国内源，update都不成功，如下提示：</p>
 <p>W: Failed to fetch http://mirrors.ustc.edu.cn/raspbian/raspbian/dists/jessie/InRelease  Unable to find expected entry 'conrtib/binary-armhf/Packages' in Release file (Wrong sources.list entry or malformed file)
@@ -19,4 +19,4 @@ tags: [raspberry pi]
 
 
 
-{{ page.date | date_to_string }}
+<p>{{ page.date | date_to_string }}</p>
